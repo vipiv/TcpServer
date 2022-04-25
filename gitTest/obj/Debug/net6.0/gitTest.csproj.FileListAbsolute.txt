@@ -1,0 +1,15 @@
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\bin\Debug\net6.0\gitTest.exe
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\bin\Debug\net6.0\gitTest.deps.json
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\bin\Debug\net6.0\gitTest.runtimeconfig.json
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\bin\Debug\net6.0\gitTest.dll
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\bin\Debug\net6.0\gitTest.pdb
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.csproj.AssemblyReference.cache
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.AssemblyInfoInputs.cache
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.AssemblyInfo.cs
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.csproj.CoreCompileInputs.cache
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.dll
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\refint\gitTest.dll
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.pdb
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\gitTest.genruntimeconfig.cache
+C:\Users\DCLYX\source\repos\vipiv\TcpServer\gitTest\obj\Debug\net6.0\ref\gitTest.dll
